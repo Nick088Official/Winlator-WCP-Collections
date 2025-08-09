@@ -19,6 +19,7 @@ On the releases page, you will find collections like:
 -   **DXVK-Sarek Collection**
 -   **DXVK GPLAsync Collection**
 -   **vkd3d-proton Collection**
+-   **FEXCore Collection**
 
 Simply find the collection you need. All downloadable `.wcp` files are in the "Assets" section of that release.
 
