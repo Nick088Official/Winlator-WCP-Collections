@@ -2,6 +2,8 @@
 
 This repository is a curated list of collections of pre-packaged `.wcp` files for the Winlator Android emulator. All packages are generated using the tools from the [Winlator-WCP-Toolkit](https://github.com/Nick088Official/Winlator-WCP-Toolkit) project.
 
+**NOTE: THIS REPOSITORY IS MAINLY FOR WINLATOR BIONIC FORKS**
+
 ## What is `.wcp`?
 
 .wcp is the file extension for add-ons. It is compressed using XZ or Zstd and includes a profile.json file as a manifest. You can create your own add-on files containing various contents. Since these files often include executable programs, make sure to verify that add-ons from other sources do not contain malicious software before installation.
